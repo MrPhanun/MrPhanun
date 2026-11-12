@@ -1,63 +1,79 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Mr. Phanun" />
+<div align="center">
+
+<img src="./assets/header.svg" alt="Hey, I'm Phanun — C# / .NET developer building POS and business systems" width="100%" />
+
+<br/>
+
+<a href="mailto:ppnun6@gmail.com"><img src="https://img.shields.io/badge/email-say%20hi-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18181B" alt="Email"/></a>
+<a href="https://t.me/Mylittlebabe6"><img src="https://img.shields.io/badge/telegram-dm%20me-67E8F9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=18181B" alt="Telegram"/></a>
+<img src="https://komarev.com/ghpvc/?username=MrPhanun&style=for-the-badge&color=C4B5FD&label=profile%20views" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+### ✦ tl;dr
+
+<img src="./assets/terminal.svg" alt="AboutMe.cs" width="100%" />
+
+- 🧾 **I build real stuff for real businesses** — POS, management systems, internal web apps
+- 🏢 Shipping C# Windows & Web apps at **Marunix (Cambodia)**
+- 🌱 Leveling up in **.NET, TypeScript & clean architecture**
+- 🤝 Down to collab on useful, real-world projects — ping me
+
+<br/>
+
+### ✦ stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,html,css,mysql&theme=dark" alt="Languages & frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,windows&theme=dark" alt="Tools" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrPhanun&color=58a6ff&style=flat-square&label=Profile+views" alt="profile views" />
-  <a href="mailto:ppnun6@gmail.com"><img src="https://img.shields.io/badge/Email-ppnun6%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/Mylittlebabe6"><img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+<br/>
 
-## 👋 About me
+### ✦ currently
 
-- 💻 **C# Windows & Web App developer** at **Marunix (Cambodia)**
-- 📍 Based in **Phnom Penh, Cambodia** 🇰🇭
-- 🧾 I build **POS systems, management systems and business web apps**
-- 🌱 Always learning — currently leveling up in **.NET, TypeScript and clean architecture**
-- 🤝 Open to collaborating on useful, real-world projects
-- ⚡ Fun fact: I run on coffee and `Ctrl + S`
+| 🔨 building | 📚 learning | 🎧 vibe |
+| :-- | :-- | :-- |
+| POS & management systems | .NET deep dives, TypeScript | coffee → code → `Ctrl + S` → repeat |
 
-<p align="center">
-  <img src="./assets/terminal.svg" width="760" alt="About me terminal animation" />
-</p>
+<br/>
 
-## 🛠️ Tech stack
+### ✦ featured work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,nodejs,mysql,git,github,visualstudio,vscode&perline=12" alt="Tech stack" />
-</p>
+| project | what it is | built with |
+| :-- | :-- | :-- |
+| [**AiPOSSystem**](https://github.com/MrPhanun/AiPOSSystem) | Point-of-sale system | ![TS](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=67E8F9) |
+| [**L-Or-de-Cambodge-System**](https://github.com/MrPhanun/L-Or-de-Cambodge-System) | Suit management system | ![JS](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FDE68A) |
+| [**QCWebTabletApp**](https://github.com/MrPhanun/QCWebTabletApp) | Quality-control web app for tablets | ![JS](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FDE68A) |
+| [**TongTinWeb**](https://github.com/MrPhanun/TongTinWeb) | Web application | ![C#](https://img.shields.io/badge/C%23-18181B?style=flat-square&logo=dotnet&logoColor=C4B5FD) |
+| [**MC-Dept-App**](https://github.com/Rachhan-BRC/MC-Dept-App) | MC department app | ![C#](https://img.shields.io/badge/C%23-18181B?style=flat-square&logo=dotnet&logoColor=C4B5FD) |
+| [**WEB-CV**](https://github.com/MrPhanun/WEB-CV) | My online CV | ![CSS](https://img.shields.io/badge/CSS-18181B?style=flat-square&logo=css3&logoColor=F472B6) |
 
-## 🚀 Featured projects
+<br/>
 
-| Project | Description | Tech |
-|---|---|---|
-| [AiPOSSystem](https://github.com/MrPhanun/AiPOSSystem) | Point-of-sale system | TypeScript |
-| [L-Or-de-Cambodge-System](https://github.com/MrPhanun/L-Or-de-Cambodge-System) | Suit management system | JavaScript |
-| [QCWebTabletApp](https://github.com/MrPhanun/QCWebTabletApp) | Quality-control web app for tablets | JavaScript |
-| [TongTinWeb](https://github.com/MrPhanun/TongTinWeb) | Web application | C# |
-| [MC-Dept-App](https://github.com/Rachhan-BRC/MC-Dept-App) | MC department app | C# |
-| [WEB-CV](https://github.com/MrPhanun/WEB-CV) | My online CV | CSS |
+### ✦ stats
 
-## 📊 GitHub stats
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrPhanun&show_icons=true&count_private=true&hide_border=true&bg_color=0A0A12&title_color=F472B6&icon_color=C4B5FD&text_color=E4E4E7&ring_color=A3E635" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPhanun&layout=compact&hide_border=true&bg_color=0A0A12&title_color=F472B6&text_color=E4E4E7" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=MrPhanun&hide_border=true&background=0A0A12&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&sideLabels=E4E4E7&currStreakNum=E4E4E7&sideNums=E4E4E7&dates=71717A&stroke=27272A" alt="GitHub streak" />
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrPhanun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPhanun&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrPhanun&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-## 🐍 Contribution snake
-
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrPhanun/MrPhanun/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/MrPhanun/MrPhanun/output/github-snake.svg" alt="Snake eating my contributions" />
   </picture>
-</p>
+</div>
 
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="" />
-</p>
+<br/>
+
+<div align="center">
+  <sub>built with ☕ in Phnom Penh · thanks for scrolling this far ✌️</sub>
+</div>
